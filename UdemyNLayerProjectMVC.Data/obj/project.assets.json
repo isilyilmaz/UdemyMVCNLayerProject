@@ -1520,16 +1520,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "UdemyNLayerProjectMVC.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/UdemyNLayerProjectMVC.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UdemyNLayerProjectMVC.Core.dll": {}
-        }
       }
     }
   },
@@ -5798,11 +5788,6 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
-    },
-    "UdemyNLayerProjectMVC.Core/1.0.0": {
-      "type": "project",
-      "path": "../UdemyNLayerProjectMVC.Core/UdemyNLayerProjectMVC.Core.csproj",
-      "msbuildProject": "../UdemyNLayerProjectMVC.Core/UdemyNLayerProjectMVC.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5810,8 +5795,7 @@
       "Microsoft.EntityFrameworkCore >= 5.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.9",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.9",
-      "UdemyNLayerProjectMVC.Core >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.9"
     ]
   },
   "packageFolders": {
@@ -5840,11 +5824,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\islyl\\Source\\Repos\\isilyilmaz\\UdemyMVCNLayerProject\\UdemyNLayerProjectMVC.Core\\UdemyNLayerProjectMVC.Core.csproj": {
-              "projectPath": "C:\\Users\\islyl\\Source\\Repos\\isilyilmaz\\UdemyMVCNLayerProject\\UdemyNLayerProjectMVC.Core\\UdemyNLayerProjectMVC.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

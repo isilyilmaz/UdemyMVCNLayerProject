@@ -26,15 +26,8 @@ using UdemyNLayerProjectMVC.Web.DTOs;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 3 "C:\Users\islyl\Source\Repos\isilyilmaz\UdemyMVCNLayerProject\UdemyNLayerProjectMVC.Web\Views\_ViewImports.cshtml"
-using UdemyNLayerProjectMVC.Core.Models;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d3e9ff51ea0323b6aa5c9558c94f607f3a369d45", @"/Views/Categories/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"70b5201a811c7b307a43f93e4ff1cce8cf227490", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f7dc9a8d66c6582327e41a53da9cc82d806fd9a1", @"/Views/_ViewImports.cshtml")]
     public class Views_Categories_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<CategoryDto>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("btn btn-primary mb-3"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -75,7 +68,7 @@ using UdemyNLayerProjectMVC.Core.Models;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n<h1>Kategoriler</h1>\r\n\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3e9ff51ea0323b6aa5c9558c94f607f3a369d455031", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3e9ff51ea0323b6aa5c9558c94f607f3a369d454796", async() => {
                 WriteLiteral("Kategori ekle");
             }
             );
@@ -117,7 +110,7 @@ using UdemyNLayerProjectMVC.Core.Models;
 #line hidden
 #nullable disable
             WriteLiteral("</td>\r\n                <td>\r\n\r\n                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3e9ff51ea0323b6aa5c9558c94f607f3a369d457418", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3e9ff51ea0323b6aa5c9558c94f607f3a369d457183", async() => {
                 WriteLiteral("Güncelle");
             }
             );
@@ -148,7 +141,7 @@ using UdemyNLayerProjectMVC.Core.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3e9ff51ea0323b6aa5c9558c94f607f3a369d459632", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3e9ff51ea0323b6aa5c9558c94f607f3a369d459397", async() => {
                 WriteLiteral("Sil");
             }
             );

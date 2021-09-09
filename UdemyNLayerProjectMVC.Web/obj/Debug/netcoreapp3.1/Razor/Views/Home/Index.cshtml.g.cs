@@ -26,15 +26,8 @@ using UdemyNLayerProjectMVC.Web.DTOs;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 3 "C:\Users\islyl\Source\Repos\isilyilmaz\UdemyMVCNLayerProject\UdemyNLayerProjectMVC.Web\Views\_ViewImports.cshtml"
-using UdemyNLayerProjectMVC.Core.Models;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"366074575611352c0bc2b42edbd5606bf5e3dbea", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"70b5201a811c7b307a43f93e4ff1cce8cf227490", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f7dc9a8d66c6582327e41a53da9cc82d806fd9a1", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
